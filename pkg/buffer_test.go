@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pion/rtcp"
-	"github.com/pion/rtp"
+	"github.com/carrotsong/rtcp"
+	"github.com/carrotsong/rtp"
 	"github.com/stretchr/testify/assert"
 )
 

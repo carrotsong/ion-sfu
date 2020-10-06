@@ -3,7 +3,7 @@ package sfu
 import (
 	"testing"
 
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/webrtc/v3"
 	"github.com/stretchr/testify/assert"
 )
 

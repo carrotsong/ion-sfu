@@ -9,9 +9,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/pion/rtcp"
-	"github.com/pion/rtp"
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/rtcp"
+	"github.com/carrotsong/rtp"
+	"github.com/carrotsong/webrtc/v3"
 )
 
 func TestNewWebRTCReceiver(t *testing.T) {

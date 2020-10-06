@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/rtcp"
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/rtcp"
+	"github.com/carrotsong/webrtc/v3"
 	"github.com/stretchr/testify/assert"
 )
 

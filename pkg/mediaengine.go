@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pion/sdp/v2"
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/sdp/v2"
+	"github.com/carrotsong/webrtc/v3"
 )
 
 const (

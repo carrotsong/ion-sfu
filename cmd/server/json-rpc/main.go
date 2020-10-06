@@ -11,13 +11,13 @@ import (
 	"os"
 
 	"github.com/gorilla/websocket"
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/webrtc/v3"
 	"github.com/sourcegraph/jsonrpc2"
 	websocketjsonrpc2 "github.com/sourcegraph/jsonrpc2/websocket"
 	"github.com/spf13/viper"
 
-	sfu "github.com/pion/ion-sfu/pkg"
-	"github.com/pion/ion-sfu/pkg/log"
+	sfu "github.com/carrotsong/ion-sfu/pkg"
+	"github.com/carrotsong/ion-sfu/pkg/log"
 )
 
 var (

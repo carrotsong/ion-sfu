@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pion/sdp/v3"
-	"github.com/pion/webrtc/v3"
+	"github.com/carrotsong/sdp/v3"
+	"github.com/carrotsong/webrtc/v3"
 
-	"github.com/pion/ion-sfu/pkg/log"
+	"github.com/carrotsong/ion-sfu/pkg/log"
 )
 
 // ICEServerConfig defines parameters for ice servers
